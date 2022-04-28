@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there is Yohager! 👋
 
+- 🔭 I’m currently working on algorithmic game theory and mechanism design.
+- 🌱 I’m currently learning algorithms (cs166), etc.
+- 📫 How to reach me: guoyuhang0921@gmail.com
 <!--
 **Yohager/Yohager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
