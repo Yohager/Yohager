@@ -1,8 +1,9 @@
 ### Hi there is Yohager! 👋
 
+- ⚡ I am a computer science Ph.D. student. 
 - 🔭 I’m currently working on algorithmic game theory and mechanism design.
 - 🌱 My research interests lie in design mechanisms/algorithms regarding auction/social choice problems powered by social networks.
-- 📫 How to reach me: guoyuhang0921@gmail.com
+- 📫 How to reach me: guoyuhang0921@gmail.com or yuhang.guo2@unsw.edu.au
 <!--
 **Yohager/Yohager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
